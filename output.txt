@@ -1,0 +1,12 @@
+
+123 main st. 4 occupants:
+Alice Smith 123 Main St. Seattle WA 45
+Dave Smith 123 main st. seattle wa 43
+
+234 2nd Ave. 4 occupants:
+Carol Johnson 234 2nd Ave Seattle WA 67
+Frank Jones 234 2nd Ave. Tacoma FL 23
+Eve Smith 234 2nd Ave. Tacoma WA 25
+Bob Williams 234 2nd Ave. Tacoma WA 26
+
+345 3rd Blvd., Apt. 200 2 occupants:
